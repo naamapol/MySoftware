@@ -5,3 +5,4 @@ def click():
     print("Goodbye")
     print("Goodbye")
     print("Goodbye")
+    print("hello")
