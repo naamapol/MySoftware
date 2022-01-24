@@ -3,3 +3,4 @@ def click():
     print("hello")
     print("Goodbye")
     print("Goodbye")
+    print("Goodbye")
